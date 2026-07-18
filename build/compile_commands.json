@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/dakshbatra/maritime/build",
+  "command": "/usr/bin/c++  -I/Users/dakshbatra/maritime/src -I/Users/dakshbatra/maritime/build/_deps/nlohmann_json-src/include -O3 -DNDEBUG -std=gnu++20 -arch arm64 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -o CMakeFiles/engine.dir/src/engine/spatial_engine.cpp.o -c /Users/dakshbatra/maritime/src/engine/spatial_engine.cpp",
+  "file": "/Users/dakshbatra/maritime/src/engine/spatial_engine.cpp",
+  "output": "CMakeFiles/engine.dir/src/engine/spatial_engine.cpp.o"
+},
+{
+  "directory": "/Users/dakshbatra/maritime/build",
+  "command": "/usr/bin/c++  -I/Users/dakshbatra/maritime/src -I/Users/dakshbatra/maritime/build/_deps/nlohmann_json-src/include -O3 -DNDEBUG -std=gnu++20 -arch arm64 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -o CMakeFiles/engine.dir/src/engine/anomaly.cpp.o -c /Users/dakshbatra/maritime/src/engine/anomaly.cpp",
+  "file": "/Users/dakshbatra/maritime/src/engine/anomaly.cpp",
+  "output": "CMakeFiles/engine.dir/src/engine/anomaly.cpp.o"
+},
+{
+  "directory": "/Users/dakshbatra/maritime/build",
+  "command": "/usr/bin/c++ -DCPPHTTPLIB_BROTLI_SUPPORT -DCPPHTTPLIB_OPENSSL_SUPPORT -DCPPHTTPLIB_USE_CERTS_FROM_MACOSX_KEYCHAIN -DCPPHTTPLIB_ZLIB_SUPPORT -I/Users/dakshbatra/maritime/src -I/Users/dakshbatra/maritime/build/_deps/nlohmann_json-src/include -isystem /Users/dakshbatra/maritime/build/_deps/httplib-src -isystem /opt/homebrew/include -O3 -DNDEBUG -std=gnu++20 -arch arm64 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -o CMakeFiles/maritime_server.dir/src/main.cpp.o -c /Users/dakshbatra/maritime/src/main.cpp",
+  "file": "/Users/dakshbatra/maritime/src/main.cpp",
+  "output": "CMakeFiles/maritime_server.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/dakshbatra/maritime/build",
+  "command": "/usr/bin/c++ -DCPPHTTPLIB_BROTLI_SUPPORT -DCPPHTTPLIB_OPENSSL_SUPPORT -DCPPHTTPLIB_USE_CERTS_FROM_MACOSX_KEYCHAIN -DCPPHTTPLIB_ZLIB_SUPPORT -I/Users/dakshbatra/maritime/build/_deps/nlohmann_json-src/include -isystem /Users/dakshbatra/maritime/build/_deps/httplib-src -isystem /opt/homebrew/include -O3 -DNDEBUG -std=gnu++20 -arch arm64 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -o CMakeFiles/ais_simulator.dir/tools/ais_simulator.cpp.o -c /Users/dakshbatra/maritime/tools/ais_simulator.cpp",
+  "file": "/Users/dakshbatra/maritime/tools/ais_simulator.cpp",
+  "output": "CMakeFiles/ais_simulator.dir/tools/ais_simulator.cpp.o"
+},
+{
+  "directory": "/Users/dakshbatra/maritime/build",
+  "command": "/usr/bin/c++  -I/Users/dakshbatra/maritime/src -I/Users/dakshbatra/maritime/build/_deps/nlohmann_json-src/include -O3 -DNDEBUG -std=gnu++20 -arch arm64 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -o CMakeFiles/engine_tests.dir/tests/engine_test.cpp.o -c /Users/dakshbatra/maritime/tests/engine_test.cpp",
+  "file": "/Users/dakshbatra/maritime/tests/engine_test.cpp",
+  "output": "CMakeFiles/engine_tests.dir/tests/engine_test.cpp.o"
+}
+]

@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/dakshbatra/maritime/build/cmake_install.cmake",
+		"/Users/dakshbatra/maritime/build/_deps/nlohmann_json-build/cmake_install.cmake",
+		"/Users/dakshbatra/maritime/build/_deps/httplib-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
